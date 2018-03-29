@@ -1,0 +1,12 @@
+[parameters]
+optInFastPeriod=10
+optInSlowPeriod=21
+optInSignalPeriod=9
+optInPenetration=2
+[StopLoss]
+percentage=5
+[thresholds]
+accumulationpersistence=3
+distributionpersistence=3
+uptrendpersistence=3
+downtrendpersistence=3
